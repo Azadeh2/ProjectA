@@ -16,3 +16,7 @@ Integration testing
 Regression testing
 Mutation testing
 
+Design Patterns
+https://refactoring.guru/design-patterns
+
+
