@@ -10,3 +10,9 @@ https://greenteapress.com/thinkpython/thinkpython.pdf
 Environments
 https://docs.anaconda.com/working-with-conda/environments/
 
+Testing
+Unit testing
+Integration testing
+Regression testing
+Mutation testing
+
